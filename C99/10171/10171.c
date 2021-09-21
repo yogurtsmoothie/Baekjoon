@@ -2,8 +2,8 @@
 
 int main()
 {
-	printf("%s\n", "\\  /\\");
+	printf("%s\n", "\\    /\\");
 	printf("%s\n", " )  ( ')");
 	printf("%s\n", "(  /  ) ");
-	printf("%s\n", " \(__)| ");
+	printf("%s\n", " \\\(__)|");
 }
