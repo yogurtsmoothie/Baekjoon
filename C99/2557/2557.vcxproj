@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{93AA566C-57CA-4C4C-8127-CBD7F38AECB4}</ProjectGuid>
+    <ProjectGuid>{C6E242D0-B22D-4CE1-B4F6-1073B652DE2A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>My2557</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
