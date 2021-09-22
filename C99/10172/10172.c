@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main()
-{
+int main() {
 	printf("%s\n", "|\\_/|");
 	printf("%s\n", "|q p|   /}");
 	printf("%s\n", "( 0 )\"\"\"\\");
