@@ -2,16 +2,16 @@
 
 int main()
 {
-	float A, B;
-	float result;
+	double A, B;
+	double result;
 
 	A < 0;
 	B < 10;
 
-	scanf_s("%f", &A);
-	scanf_s("%f", &B);
+	scanf("%lf", &A);
+	scanf("%lf", &B);
 	
 	result = A / B;
 
-	printf("%20.15f", result);
+	printf("%20.15lf", result);
 }
